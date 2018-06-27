@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="development" uuid="cc3c3c5a-91c0-4c35-bc76-df29ff303ecc">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="development [2]" uuid="3db462ce-8bbe-4182-8525-01f8c05eb8e0">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="test" uuid="53ca5278-d55f-4a31-af67-cb6289013e31">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+    <data-source name="test [2]" uuid="d714f9f5-6e54-4cad-bfee-941d0f56fc9c">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+    </data-source>
+  </component>
+</project>
