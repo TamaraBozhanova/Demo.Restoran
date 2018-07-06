@@ -1,0 +1,17 @@
+<product class="phone">
+  <section class="phone-head">
+    <h2><%=link_to phone.name, phone_path(phone) %></h2>
+    <small>
+      <time><%=phone.created_at.to_date.strftime("%d %B, %Y") %></time>
+      |
+      <%=link_to 'Изменить', edit_phone_path(phone) %>
+      |
+      <%=link_to 'Удалить', phone_path(phone),
+                method: :delete, data: {confirm: 'Вы уверены?'} %>
+    </small>
+  </section>
+  <section class="phone-price">
+    <%=phone.price %> грн
+  </section>
+</product>
+

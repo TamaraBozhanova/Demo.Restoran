@@ -1,0 +1,14 @@
+ru:
+ activerecord:
+   models:
+     phone: 'Телефон'
+   attributes:
+    phone:
+     name: 'Название'
+     price: 'Цена'
+     description: 'Описание'
+   errors:
+     messages:
+      blank: 'не может быть пустым'
+
+

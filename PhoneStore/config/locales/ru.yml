@@ -1,0 +1,14 @@
+ru:
+ common:
+   errors: 'При заполнении формы возникли ошибки'
+   back: 'Назад'
+ phones:
+   index:
+     name: 'Телефоны'
+   new:
+     name: 'Новый телефон'
+   edit:
+     name: 'Редактирование телефона'
+   form:
+     submit:
+      '%{action} телефон'
